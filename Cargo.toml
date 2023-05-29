@@ -9,4 +9,5 @@ publish = ["itsrainingmani"]
 
 [dependencies]
 maxminddb = "0.23"
+rusqlite = "0.28"
 thiserror = "1"
